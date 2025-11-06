@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "15bedf1c974e6cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff1684f9a7b5c493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef410c27b9f0c779",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ede3c5b00ead09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4d7b9de2ca12e73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6210dd4764473473",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ceb058ee120f13f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "414cc41ade19c1c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f44c24f2a08f737",
+    "type": "split",
+    "children": [
+      {
+        "id": "06f0084bab83cd83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb5e3f1d6480431",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2936fd3e119a62ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a75cf440afae440e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc1a4fc24ff6c6ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ef410c27b9f0c779",
+  "lastOpenFiles": [
+    "FieldGuide/Animalia/Arthropoda/Insecta/Insecta.md",
+    "FieldGuide/Animalia/Chordata/Mammalia/Mammalia.md",
+    "FieldGuide/Plasma/HydrovorA/HydrovorA.md",
+    "FieldGuide/Lithobiota/Ferrifera/Ferrifera.md",
+    "FieldGuide/Phytobiota/Fungi/Fungi.md",
+    "FieldGuide/Exobiota/Symbionta/Symbionta.md",
+    "FieldGuide/Animalia/Arthropoda/Insecta",
+    "FieldGuide/Animalia/Arthropoda/Arthropoda.md",
+    "FieldGuide/Animalia/Chordata/Mammalia",
+    "FieldGuide/Animalia/Chordata/Chordata.md",
+    "FieldGuide/Cryobiota/Glaciiformes/Glaciiformes.md",
+    "FieldGuide/Plasma/Plasma.md",
+    "FieldGuide/Plasma/HydrovorA",
+    "FieldGuide/Lithobiota/Lithobiota.md",
+    "FieldGuide/Lithobiota/Ferrifera",
+    "FieldGuide/Phytobiota/Phytobiota.md",
+    "FieldGuide/Phytobiota/Fungi",
+    "FieldGuide/Exobiota/Symbionta",
+    "FieldGuide/Exobiota/Exobiota.md",
+    "FieldGuide/Animalia/Arthropoda",
+    "FieldGuide/Animalia/Chordata",
+    "FieldGuide/Animalia/Animalia.md",
+    "FieldGuide/Cryobiota/Glaciiformes",
+    "FieldGuide/Cryobiota/Cryobiota.md",
+    "FieldGuide/Pokemon Field Guide.md",
+    "FieldGuide/Pokemon",
+    "FieldGuide/Guide.md",
+    "Pokemon Field Guide/Guide.md",
+    "Pokemon Field Guide/Animalia/Chordata/Mammalia/Mammalia.md",
+    "Pokemon Field Guide/Pokemon Field Guide.md",
+    "Pokemon Field Guide/Phytobiota/Fungi/Fungi.md",
+    "Pokemon Field Guide/Phytobiota/Phytobiota.md",
+    "Pokemon Field Guide/Animalia/Arthropoda/Insecta/Insecta.md",
+    "Pokemon Field Guide/Animalia/Arthropoda/Arthropoda.md",
+    "Pokemon Field Guide/Animalia/Chordata/Chordata.md",
+    "Pokemon Field Guide/Animalia/Animalia.md"
+  ]
+}
